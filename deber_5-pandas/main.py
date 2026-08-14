@@ -1,3 +1,5 @@
+import pandas as pd
+
 # 1. Crear un diccionario con datos
 datos = {'Fruta': ['Manzana', 'Pera', 'Banano'], 'Cantidad': [10, 5, 20]}
 
@@ -15,4 +17,3 @@ df2 = pd.DataFrame(datos2)
 # Sumar todos los precios
 total = df2['Precio'].sum()
 print(f"Total a pagar: {total}")
-

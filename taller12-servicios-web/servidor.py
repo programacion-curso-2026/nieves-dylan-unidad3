@@ -6,11 +6,11 @@ class Pagina:
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<title>Completa el for</title>
+<title>Completax</title>
 <body>
+<b>Dylan salte nomas</b>
 </body>
 </html>"""
-
     @classmethod
     def render(cls) -> bytes:
         return cls.HTML.encode("utf-8")
