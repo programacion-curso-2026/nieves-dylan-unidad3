@@ -32,3 +32,16 @@ class Database:
         """
         self.execute_query(create_table_query)
         print("Tabla 'mecanico' creada/verificada")
+
+    def execute_query(self, query, params=None):
+        """Método auxiliar para ejecutar consultas"""
+        try:
+            if params:
+                self.cursor.execute(query, params)
+            else:
+                self.cursor.execute(query)
+            self.connection.commit()
+            return True
+        except sqlite3.Error as e:
+            print(f"Error en la consulta: {e}")
+            return False

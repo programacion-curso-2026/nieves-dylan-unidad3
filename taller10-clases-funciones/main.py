@@ -1,26 +1,15 @@
-from database import Database
 from mecanico import Mecanico
-class MecanicoDAO:
-    """Data Access Object para la entidad Mecanico"""
+from database import Database
+from mecanico_dao import MecanicoDAO
 
-    def __init__(self, database: Database):
-        self.db = database
+# 1. Inicializar la base de datos y el DAO
+db = Database()
+mecanico_dao = MecanicoDAO(db)
 
-    def crear_mecanico(self, mecanico: Mecanico) -> bool:
-        """Crea un nuevo registro de mecánico en la base de datos"""
-        query = """
-        INSERT INTO mecanico (nombre, telefono, direccion, especialidad,
-                             tiempo_practica, costo_x_hora)
-        VALUES (?, ?, ?, ?, ?, ?)
-        """
-        params = (mecanico.nombre, mecanico.telefono, mecanico.direccion,
-                 mecanico.especialidad, mecanico.tiempo_practica, mecanico.costo_x_hora)
+# 2. Crear objetos de tipo Mecanico
+mecanico_1 = Mecanico("David Guevara", "0992848484", "Via a la Costa", "Popular Mechanics with IA", 100)
+mecanico_2 = Mecanico("Juan Perez", "0992848484", "Alborada", "Microservicios", 120)
 
-        success = self.db.execute_query(query, params)
-
-        if success:
-            print(f"Mecánico '{mecanico.nombre}' creado exitosamente")
-        else:
-            print(f"Error al crear el mecánico '{mecanico.nombre}'")
-
-        return success
+# 3. (Opcional) Guardarlos en la base de datos usando el DAO
+mecanico_dao.crear_mecanico(mecanico_1)
+mecanico_dao.crear_mecanico(mecanico_2)
