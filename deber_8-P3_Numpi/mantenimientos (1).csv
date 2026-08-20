@@ -1,0 +1,121 @@
+codigo,equipo,tipo_mantenimiento,area,fecha,costo,duracion_horas,tecnico,estado,satisfaccion
+MNT-0001,Switch,Preventivo,FADCOM,2026-03-16,56.64,1.9,Ana Torres,En proceso,5
+MNT-0002,Router,Preventivo,GTSI,2026-01-28,53.86,2.3,Sofia Leon,Completado,1
+MNT-0003,Proyector,Preventivo,FIMCP,2026-03-17,83.42,1.4,Maria Cedeño,Completado,5
+MNT-0004,Desktop,Preventivo,FCNM,2026-01-31,79.54,1.7,Ana Torres,Completado,5
+MNT-0005,Switch,Correctivo,GTSI,2026-04-11,117.38,2.7,Ana Torres,Completado,4
+MNT-0006,Laptop,Correctivo,FCNM,2026-01-25,141.88,1.3,Maria Cedeño,Completado,4
+MNT-0007,Desktop,Preventivo,FIEC,2026-06-25,65.75,3.1,Sofia Leon,Completado,5
+MNT-0008,Switch,Preventivo,FCSH,2026-04-12,49.98,3.1,Ana Torres,Completado,3
+MNT-0009,Desktop,Correctivo,FCNM,2026-04-17,126.57,2.9,Carlos Ruiz,Completado,5
+MNT-0010,Proyector,Diagnostico,FADCOM,2026-05-02,68.02,1.8,Sofia Leon,Completado,5
+MNT-0011,Proyector,Diagnostico,FCSH,2026-04-07,75.11,3.9,Ana Torres,Completado,3
+MNT-0012,Desktop,Correctivo,FADCOM,2026-04-23,110.42,2.0,Sofia Leon,Completado,4
+MNT-0013,Laptop,Correctivo,GTSI,2026-06-28,142.23,1.6,Carlos Ruiz,Completado,4
+MNT-0014,Desktop,Correctivo,FADCOM,2026-07-08,126.07,3.2,Maria Cedeño,Pendiente,3
+MNT-0015,Switch,Correctivo,FIEC,2026-02-13,92.08,2.7,Sofia Leon,En proceso,5
+MNT-0016,Impresora,Correctivo,GTSI,2026-04-07,124.55,1.5,Sofia Leon,Completado,3
+MNT-0017,Laptop,Preventivo,FCSH,2026-08-01,97.49,2.0,Sofia Leon,Completado,3
+MNT-0018,Desktop,Preventivo,FIMCP,2026-04-23,120.58,1.1,Maria Cedeño,Completado,5
+MNT-0019,Proyector,Diagnostico,FADCOM,2026-04-10,35.92,1.8,Ana Torres,Completado,3
+MNT-0020,Router,Correctivo,FIMCP,2026-03-02,122.23,2.4,Maria Cedeño,En proceso,1
+MNT-0021,Laptop,Correctivo,FCNM,2026-06-25,87.48,2.5,Luis Vera,Completado,5
+MNT-0022,Proyector,Correctivo,FIEC,2026-01-29,167.66,2.8,Ana Torres,Pendiente,4
+MNT-0023,Switch,Correctivo,FADCOM,2026-01-30,134.22,2.8,Luis Vera,Completado,3
+MNT-0024,Router,Preventivo,FCSH,2026-02-20,45.77,2.0,Sofia Leon,Pendiente,4
+MNT-0025,Laptop,Preventivo,FIMCP,2026-01-08,113.05,1.2,Carlos Ruiz,Completado,3
+MNT-0026,Desktop,Diagnostico,GTSI,2026-02-16,20.00,2.9,Sofia Leon,Completado,4
+MNT-0027,Switch,Correctivo,FIEC,2026-02-22,84.50,4.2,Maria Cedeño,Completado,5
+MNT-0028,Laptop,Preventivo,FCSH,2026-05-13,87.43,1.1,Ana Torres,Pendiente,1
+MNT-0029,Router,Preventivo,FIEC,2026-04-18,82.49,2.5,Ana Torres,Completado,5
+MNT-0030,Proyector,Correctivo,FIMCP,2026-05-18,141.57,2.9,Carlos Ruiz,Completado,4
+MNT-0031,Desktop,Correctivo,FCNM,2026-05-02,113.41,3.5,Sofia Leon,Completado,2
+MNT-0032,Laptop,Preventivo,FIEC,2026-05-14,58.87,3.1,Luis Vera,Completado,3
+MNT-0033,Proyector,Correctivo,FADCOM,2026-03-23,98.88,1.1,Sofia Leon,Completado,3
+MNT-0034,Impresora,Diagnostico,GTSI,2026-02-08,34.31,3.0,Sofia Leon,Completado,3
+MNT-0035,Desktop,Correctivo,FIEC,2026-06-29,116.80,2.0,Carlos Ruiz,Completado,3
+MNT-0036,Impresora,Preventivo,FCNM,2026-07-21,94.34,2.9,Carlos Ruiz,Completado,4
+MNT-0037,Router,Preventivo,GTSI,2026-06-30,71.50,1.0,Carlos Ruiz,Completado,5
+MNT-0038,Desktop,Preventivo,FCNM,2026-07-27,77.43,1.5,Ana Torres,Completado,5
+MNT-0039,Impresora,Correctivo,FCSH,2026-06-12,94.34,0.8,Luis Vera,En proceso,3
+MNT-0040,Proyector,Preventivo,FADCOM,2026-03-31,87.08,0.8,Maria Cedeño,Pendiente,5
+MNT-0041,Desktop,Correctivo,GTSI,2026-04-12,158.47,1.4,Luis Vera,Completado,4
+MNT-0042,Desktop,Preventivo,FIEC,2026-04-17,50.49,2.7,Sofia Leon,Completado,4
+MNT-0043,Proyector,Correctivo,FIMCP,2026-03-30,158.61,2.3,Maria Cedeño,Completado,3
+MNT-0044,Laptop,Preventivo,FCSH,2026-04-03,61.18,0.9,Sofia Leon,Completado,5
+MNT-0045,Desktop,Preventivo,FADCOM,2026-04-26,121.40,1.5,Luis Vera,En proceso,5
+MNT-0046,Impresora,Preventivo,FADCOM,2026-03-30,29.28,0.8,Carlos Ruiz,Completado,4
+MNT-0047,Impresora,Preventivo,FCNM,2026-05-26,68.51,2.0,Luis Vera,Completado,5
+MNT-0048,Router,Correctivo,FCSH,2026-05-25,97.15,1.9,Maria Cedeño,Completado,5
+MNT-0049,Proyector,Preventivo,FADCOM,2026-02-28,43.51,1.4,Ana Torres,Completado,5
+MNT-0050,Impresora,Correctivo,FADCOM,2026-06-12,73.77,3.5,Luis Vera,Completado,5
+MNT-0051,Desktop,Preventivo,FIEC,2026-05-06,42.45,0.7,Carlos Ruiz,Completado,5
+MNT-0052,Proyector,Preventivo,FIEC,2026-06-21,64.75,0.5,Luis Vera,Completado,3
+MNT-0053,Desktop,Correctivo,FADCOM,2026-05-17,100.85,2.6,Carlos Ruiz,Completado,3
+MNT-0054,Switch,Correctivo,FIMCP,2026-06-06,86.10,3.5,Carlos Ruiz,En proceso,5
+MNT-0055,Router,Preventivo,FIEC,2026-07-14,64.26,0.9,Sofia Leon,Completado,5
+MNT-0056,Proyector,Correctivo,FCNM,2026-04-27,164.45,2.7,Ana Torres,En proceso,4
+MNT-0057,Desktop,Preventivo,FCSH,2026-07-01,80.00,1.9,Carlos Ruiz,Completado,4
+MNT-0058,Laptop,Preventivo,FCSH,2026-04-14,87.84,1.0,Ana Torres,Completado,5
+MNT-0059,Impresora,Preventivo,FCSH,2026-04-22,20.00,1.2,Maria Cedeño,Completado,3
+MNT-0060,Proyector,Correctivo,FCSH,2026-04-01,129.30,1.3,Sofia Leon,En proceso,4
+MNT-0061,Router,Preventivo,FCSH,2026-06-05,44.01,1.4,Luis Vera,Pendiente,3
+MNT-0062,Laptop,Preventivo,FCNM,2026-02-28,44.59,1.7,Carlos Ruiz,Completado,4
+MNT-0063,Impresora,Correctivo,FCSH,2026-01-09,94.46,2.2,Ana Torres,Completado,3
+MNT-0064,Laptop,Diagnostico,FIEC,2026-01-10,35.00,1.1,Luis Vera,Completado,3
+MNT-0065,Proyector,Correctivo,FCNM,2026-02-16,103.92,1.3,Ana Torres,En proceso,3
+MNT-0066,Router,Preventivo,FCNM,2026-06-01,24.32,0.5,Sofia Leon,Completado,5
+MNT-0067,Switch,Correctivo,FIEC,2026-01-31,95.18,1.8,Sofia Leon,Pendiente,3
+MNT-0068,Laptop,Preventivo,FCSH,2026-06-23,45.80,2.1,Ana Torres,Pendiente,4
+MNT-0069,Proyector,Diagnostico,FADCOM,2026-05-02,54.26,0.8,Sofia Leon,Completado,5
+MNT-0070,Proyector,Correctivo,FADCOM,2026-06-05,143.54,3.8,Carlos Ruiz,Completado,3
+MNT-0071,Desktop,Correctivo,FIMCP,2026-06-10,118.45,1.8,Luis Vera,Completado,4
+MNT-0072,Impresora,Correctivo,FCNM,2026-03-17,119.47,1.7,Luis Vera,Completado,3
+MNT-0073,Laptop,Preventivo,FCSH,2026-05-10,48.41,1.3,Ana Torres,Completado,5
+MNT-0074,Laptop,Preventivo,FCSH,2026-07-01,65.12,2.5,Carlos Ruiz,Completado,5
+MNT-0075,Switch,Correctivo,FCNM,2026-07-03,83.21,2.6,Ana Torres,Completado,5
+MNT-0076,Switch,Correctivo,FADCOM,2026-02-21,114.19,3.5,Sofia Leon,En proceso,5
+MNT-0077,Router,Preventivo,GTSI,2026-02-23,42.79,2.1,Maria Cedeño,Completado,5
+MNT-0078,Laptop,Diagnostico,FIMCP,2026-03-20,43.04,1.2,Ana Torres,Completado,4
+MNT-0079,Router,Preventivo,FCSH,2026-04-27,20.00,3.0,Ana Torres,Completado,4
+MNT-0080,Proyector,Correctivo,FIMCP,2026-06-15,143.59,2.0,Luis Vera,Completado,4
+MNT-0081,Laptop,Correctivo,FCSH,2026-06-09,89.61,1.8,Carlos Ruiz,Completado,4
+MNT-0082,Impresora,Diagnostico,FCSH,2026-03-24,31.46,1.4,Luis Vera,En proceso,3
+MNT-0083,Switch,Preventivo,FADCOM,2026-01-25,63.75,1.9,Sofia Leon,Completado,1
+MNT-0084,Proyector,Preventivo,FIEC,2026-03-19,73.34,0.5,Maria Cedeño,Completado,5
+MNT-0085,Switch,Correctivo,FIEC,2026-04-23,113.04,2.7,Ana Torres,Pendiente,4
+MNT-0086,Laptop,Preventivo,FCNM,2026-06-06,63.56,0.6,Maria Cedeño,Completado,3
+MNT-0087,Switch,Preventivo,FCNM,2026-05-13,33.38,1.3,Sofia Leon,Completado,4
+MNT-0088,Impresora,Preventivo,FIEC,2026-06-26,67.30,0.7,Sofia Leon,Pendiente,5
+MNT-0089,Laptop,Correctivo,FIEC,2026-05-05,91.15,2.3,Carlos Ruiz,Completado,5
+MNT-0090,Laptop,Correctivo,FCSH,2026-03-31,110.28,2.7,Maria Cedeño,Completado,4
+MNT-0091,Switch,Diagnostico,FIMCP,2026-01-14,22.90,1.7,Ana Torres,Pendiente,4
+MNT-0092,Switch,Diagnostico,FCSH,2026-04-20,66.32,1.8,Ana Torres,Completado,4
+MNT-0093,Desktop,Preventivo,FIEC,2026-03-19,39.74,1.9,Luis Vera,Completado,5
+MNT-0094,Switch,Preventivo,FIMCP,2026-01-08,47.04,1.4,Ana Torres,Completado,3
+MNT-0095,Switch,Correctivo,FCSH,2026-07-07,92.31,3.5,Luis Vera,En proceso,4
+MNT-0096,Proyector,Correctivo,FCSH,2026-02-22,171.62,2.0,Carlos Ruiz,Completado,3
+MNT-0097,Impresora,Diagnostico,FIMCP,2026-03-14,46.19,1.0,Carlos Ruiz,Completado,5
+MNT-0098,Desktop,Preventivo,FCSH,2026-04-03,52.77,2.5,Luis Vera,Pendiente,4
+MNT-0099,Router,Preventivo,FCSH,2026-01-16,38.41,2.2,Luis Vera,Completado,4
+MNT-0100,Proyector,Diagnostico,FIEC,2026-05-13,79.80,1.4,Carlos Ruiz,Completado,4
+MNT-0101,Laptop,Correctivo,FCSH,2026-06-21,123.27,2.3,Carlos Ruiz,Completado,4
+MNT-0102,Switch,Preventivo,FCNM,2026-06-26,69.89,1.0,Carlos Ruiz,En proceso,5
+MNT-0103,Router,Preventivo,GTSI,2026-03-06,20.00,0.5,Ana Torres,Completado,5
+MNT-0104,Switch,Correctivo,GTSI,2026-04-28,110.56,2.9,Maria Cedeño,Pendiente,2
+MNT-0105,Impresora,Preventivo,FIEC,2026-03-08,24.62,1.3,Sofia Leon,Completado,3
+MNT-0106,Proyector,Correctivo,FIEC,2026-05-12,158.94,2.2,Ana Torres,Completado,4
+MNT-0107,Proyector,Diagnostico,FADCOM,2026-05-24,73.48,2.1,Carlos Ruiz,Completado,5
+MNT-0108,Switch,Preventivo,FCNM,2026-02-24,99.36,1.5,Sofia Leon,Completado,4
+MNT-0109,Impresora,Diagnostico,FCNM,2026-01-10,70.43,1.4,Ana Torres,Pendiente,5
+MNT-0110,Router,Correctivo,FCNM,2026-07-22,96.84,1.5,Maria Cedeño,Completado,5
+MNT-0111,Switch,Correctivo,FADCOM,2026-06-28,117.56,1.6,Carlos Ruiz,Completado,5
+MNT-0112,Laptop,Correctivo,FADCOM,2026-02-07,130.28,2.7,Sofia Leon,Completado,3
+MNT-0113,Impresora,Correctivo,FCNM,2026-02-16,92.70,3.7,Maria Cedeño,Completado,4
+MNT-0114,Laptop,Correctivo,GTSI,2026-02-10,115.16,1.9,Sofia Leon,En proceso,5
+MNT-0115,Impresora,Preventivo,FCSH,2026-01-08,51.47,1.9,Sofia Leon,Completado,5
+MNT-0116,Proyector,Correctivo,FCNM,2026-02-01,137.20,1.7,Sofia Leon,Completado,5
+MNT-0117,Desktop,Correctivo,FADCOM,2026-08-03,94.92,2.6,Ana Torres,Completado,3
+MNT-0118,Impresora,Diagnostico,GTSI,2026-01-29,41.11,2.4,Sofia Leon,Completado,4
+MNT-0119,Proyector,Correctivo,FADCOM,2026-02-13,172.63,1.7,Maria Cedeño,Completado,5
+MNT-0120,Laptop,Correctivo,FIEC,2026-04-28,99.57,2.6,Maria Cedeño,Completado,5
